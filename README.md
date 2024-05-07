@@ -1,1 +1,1 @@
-# .github
+# icims-github-copilot
